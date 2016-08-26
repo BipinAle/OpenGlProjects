@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OpenGLProject.iml" filepath="$PROJECT_DIR$/OpenGLProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenGlProjects.iml" filepath="$PROJECT_DIR$/OpenGlProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
